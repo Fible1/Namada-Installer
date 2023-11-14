@@ -8,6 +8,8 @@ Remember to "cd" into the same folder you download the installer file to before 
 
 The final result when the script ends will be a working node, you can "cd namada" then "namada --version" to check your install. 
 
+The installer will always install the latest version of Namada, you can easily mod this in the scirpt if that is not what you want, if people use this I will add a version selector, it should be trivial.
+
 I welcome pull requests, I am still learning my way around. I would ideally like to deploy this as a gist but I am having issue with making the script non-interactive. 
 
 ***Known Bugs***
