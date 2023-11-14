@@ -8,7 +8,7 @@ Remember to "cd" into the same folder you download the installer file to before 
 
 The final result when the script ends will be a working node, you can "cd namada" then "namada --version" to check your install. 
 
-I welcome pull requests, I am still learning my way around. I would ideally like to deploy this as a gist but I am having issue with making the script non-interactive. I could probably create a gist that would work on many machines, but it would fail a lot of the time with the issues I am having.
+I welcome pull requests, I am still learning my way around. I would ideally like to deploy this as a gist but I am having issue with making the script non-interactive. 
 
 ***Known Bugs***
 
